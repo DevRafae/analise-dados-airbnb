@@ -14,8 +14,8 @@ Este projeto analisa os preços das hospedagens no Rio de Janeiro ao longo do an
 - Cidades com acomodações mais avaliadas avaliadas.
 
 ## 📂 Como visualizar?
-O notebook completo está disponível [aqui].(https://github.com/DevRafae/analise-dados-airbnb/blob/9f4c9e3299c2b764fa9001d9e1eead4d63a79b05/Varia%C3%A7%C3%A3o_de_pre%C3%A7o_Airnbn_no_Rio_de_Janeiro.ipynb.
-).
+O notebook completo está disponível [aqui](https://github.com/DevRafae/analise-dados-airbnb/blob/9f4c9e3299c2b764fa9001d9e1eead4d63a79b05/Varia%C3%A7%C3%A3o_de_pre%C3%A7o_Airnbn_no_Rio_de_Janeiro.ipynb.
+)
 
 ## Como Contribuir
 
